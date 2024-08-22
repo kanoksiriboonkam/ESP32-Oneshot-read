@@ -985,3 +985,13 @@
 62	163	1724311921685652642	/Users/khimkhim/ ESP32-Oneshot-read/ ESP32-Oneshot-read/build/bootloader/bootloader.elf	766d77eb64470d0a
 62	163	1724311921685652642	/Users/khimkhim/ ESP32-Oneshot-read/ ESP32-Oneshot-read/build/bootloader/bootloader.bin	766d77eb64470d0a
 62	163	1724311921685652642	/Users/khimkhim/ ESP32-Oneshot-read/ ESP32-Oneshot-read/build/bootloader/bootloader.map	766d77eb64470d0a
+68	193	0	esp-idf/esptool_py/CMakeFiles/app_check_size	da169b5f7c36144
+68	193	0	/Users/khimkhim/ ESP32-Oneshot-read/ ESP32-Oneshot-read/build/esp-idf/esptool_py/CMakeFiles/app_check_size	da169b5f7c36144
+67	195	1724311921685652642	bootloader-prefix/src/bootloader-stamp/bootloader-build	766d77eb64470d0a
+67	195	1724311921685652642	bootloader/bootloader.elf	766d77eb64470d0a
+67	195	1724311921685652642	bootloader/bootloader.bin	766d77eb64470d0a
+67	195	1724311921685652642	bootloader/bootloader.map	766d77eb64470d0a
+67	195	1724311921685652642	/Users/khimkhim/ ESP32-Oneshot-read/ ESP32-Oneshot-read/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	766d77eb64470d0a
+67	195	1724311921685652642	/Users/khimkhim/ ESP32-Oneshot-read/ ESP32-Oneshot-read/build/bootloader/bootloader.elf	766d77eb64470d0a
+67	195	1724311921685652642	/Users/khimkhim/ ESP32-Oneshot-read/ ESP32-Oneshot-read/build/bootloader/bootloader.bin	766d77eb64470d0a
+67	195	1724311921685652642	/Users/khimkhim/ ESP32-Oneshot-read/ ESP32-Oneshot-read/build/bootloader/bootloader.map	766d77eb64470d0a
